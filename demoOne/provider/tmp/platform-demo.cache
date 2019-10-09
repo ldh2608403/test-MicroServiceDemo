@@ -1,0 +1,3 @@
+#Dubbo Registry Cache
+#Wed Oct 09 21:01:07 CST 2019
+com.demoone.dh.service.IAUserService=empty\://10.108.16.145\:20000/com.demoone.dh.service.IAUserService?anyhost\=true&application\=Demo&category\=configurators&check\=false&dubbo\=2.5.3&interface\=com.demoone.dh.service.IAUserService&methods\=getNameById&owner\=groupOne&pid\=7768&revision\=0.0.1-SNAPSHOT&side\=provider&timeout\=5000&timestamp\=1570626056885
